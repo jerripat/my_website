@@ -83,13 +83,13 @@ img {
 
 
 }
-#mycastle {
+#home {
     padding: 20px;
     text-align: center;
     margin-bottom: 20px;
     margin-top: 20px;
     border-radius: 50%;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
 }
 #home {
     background-color: chocolate;
